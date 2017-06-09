@@ -1,4 +1,4 @@
-# CAnvas Lines 
+# Canvas Lines 
 just to record my HTML5 notes 
 
 做的项目中有一个比较特殊的矩形需要去绘制，感觉只能通过canvas来实现绘制了，于是在网上找了博客去学习，结果发现一个写的比较有意思的博客，
